@@ -1,0 +1,22 @@
+{
+  "welcome_message": "👋 خوش آمدید!\n👇 لطفاً یکی از گزینه‌های زیر را انتخاب کنید:",
+  "buttons": [
+    {
+      "text": "دریافت نرم‌افزار 🧠",
+      "link": "https://mahdishamiahar.github.io/app.VIPZEXNET/"
+    },
+    {
+      "text": "سایت رسمی 🌐",
+      "link": "https://mahdishamiahar.github.io/Web.VIPZEXNET/"
+    },
+    {
+      "text": "پشتیبانی 💬",
+      "link": "https://rubika.ir/Mahdi_shami89"
+    },
+    {
+      "text": "خرید سرویس 💳",
+      "link": "https://rubika.ir/Mahdi_shami89"
+    }
+  ],
+  "unknown_command_message": "❓ لطفاً فقط دستور /start را ارسال کنید."
+}
